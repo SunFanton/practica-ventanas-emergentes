@@ -101,7 +101,7 @@ class LaminaVenEm extends JPanel{
 	}
 	
 	//-----------------------------------------------------
-	//Metodo para crear las cajas:
+	//Metodo para crear las cajas (Box):
 	public void crearCaja(String[] nombre,ButtonGroup grupo,Box caja,String nomCaja) {
 		
 		for(int i=0;i<nombre.length;i++) {
