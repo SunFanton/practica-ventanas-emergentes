@@ -16,7 +16,7 @@ public class PracticaVentanasEmergentes {
 
 }
 
-//Marco
+//Marco Principal
 class MarcoVenEm extends JFrame{
 	
 	public MarcoVenEm() {
@@ -30,7 +30,7 @@ class MarcoVenEm extends JFrame{
 	}
 }
 
-//Lamina
+//Lamina Principal
 class LaminaVenEm extends JPanel{
 	
 	private JPanel laminaCentro,
