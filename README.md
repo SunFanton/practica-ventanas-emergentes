@@ -1,4 +1,4 @@
-# practica-ventanas-emergentes
+# Practica Ventanas Emergentes con Java
 Práctica de Java sobre distintos tipos de ventanas emergentes con la clase JOptionPane.
 Para ello, creamos un marco con lamina con grupos de JRadioButton que nos permiten seleccionar que tipo de ventana
 queremos que se abra al momento de hacer click sobre el boton "Mostrar". De esa forma, podemos seleccionar que 
