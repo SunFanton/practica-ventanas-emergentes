@@ -22,6 +22,8 @@ Esta practica fue realizada a partir del ejercicio propuesto en el curso de Java
 
 ![Screenshot](screenshot4.png)
 
+![Screenshot](screenshot5.png)
+
 
 
 
