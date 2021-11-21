@@ -9,4 +9,9 @@ La idea es poder jugar con las opciones y la seleccion para ver que nuevo grafic
 
 Esta practica fue realizada a partir del ejercicio propuesto en el curso de Java de pildorasinformaticas (canal de Youtube)
 
+//-------Ventana Principal--------//
+![Screenshot](screenshot.png)
+
+
+
 
