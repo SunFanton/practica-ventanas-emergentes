@@ -8,6 +8,7 @@ de caracteres, icono, array de objetos, entre otros), o un tipo de mensaje (de e
 La idea es poder jugar con las opciones y la seleccion para ver que nuevo grafico se despliega con cada eleccion.
 
 Esta practica fue realizada a partir del ejercicio propuesto en el curso de Java de pildorasinformaticas (canal de Youtube)
+https://www.youtube.com/user/pildorasinformaticas
 
 //-------Ventana Principal--------//
 
