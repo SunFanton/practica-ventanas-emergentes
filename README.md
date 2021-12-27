@@ -11,6 +11,8 @@ Esta practica fue realizada a partir del ejercicio propuesto en el Curso de Java
 
 https://www.youtube.com/user/pildorasinformaticas
 
+Pueden probar su ejecución a través del archivo JAR ejecutable "Ventanas Emergentes (jar ejecutable)" que se encuentra en el repositorio.
+
 //-------Ventana Principal--------//
 
 ![Screenshot](screenshot.png)
